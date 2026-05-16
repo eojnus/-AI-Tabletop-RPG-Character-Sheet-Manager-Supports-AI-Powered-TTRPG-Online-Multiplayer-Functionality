@@ -1,7 +1,7 @@
 # -AI-Tabletop-RPG-Character-Sheet-Manager-Supports-AI-Powered-TTRPG-Online-Multiplayer-Functionality
-插件化应用，附带插件开发说明书
-一个 Windows 桌面应用，用于管理 **COC 7th（克苏鲁的呼唤）** 和 **DND 5e（龙与地下城）** 跑团角色卡。  
-支持 AI 主持跑团、角色创建向导、插件扩展、局域网联机组队。
+支持 AI 主持跑团、角色创建向导、插件扩展、局域网联机组队
+一个 Windows 桌面应用，插件化应用，附带插件开发说明书，用于管理 **COC 7th（克苏鲁的呼唤）** 和 **DND 5e（龙与地下城）** 跑团角色卡。  
+。
 
 ---
 
