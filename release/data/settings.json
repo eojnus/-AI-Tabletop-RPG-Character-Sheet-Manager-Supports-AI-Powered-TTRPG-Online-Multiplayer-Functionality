@@ -1,0 +1,8 @@
+{
+  "theme": "深空暗黑",
+  "disabled_plugins": [],
+  "font_family": "Microsoft JhengHei",
+  "font_size": 13,
+  "ai_keeper_api_key": "",
+  "ai_keeper_model": "deepseek-v4-flash"
+}
